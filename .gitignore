@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/01-Loops-Conditionals-Variables/Division/bin/Debug/net8.0
+/01-Loops-Conditionals-Variables/Division/obj
+/01-Loops-Conditionals-Variables/Division/.vs/Division
+/01-Loops-Conditionals-Variables/Division/.dockerignore
+/01-Loops-Conditionals-Variables/Division/Dockerfile
+/01-Loops-Conditionals-Variables/Division/Division.csproj.user
