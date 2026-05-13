@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pG9zcgGRUJI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juli Ali\\source\\repos\\dss-excercises\\01-Loops-Conditionals-Variables\\Ages\\Ages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juli Ali\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

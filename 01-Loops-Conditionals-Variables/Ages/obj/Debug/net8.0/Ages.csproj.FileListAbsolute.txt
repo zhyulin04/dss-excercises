@@ -1,0 +1,15 @@
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\bin\Debug\net8.0\Ages.exe
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\bin\Debug\net8.0\Ages.deps.json
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\bin\Debug\net8.0\Ages.runtimeconfig.json
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\bin\Debug\net8.0\Ages.dll
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\bin\Debug\net8.0\Ages.pdb
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\obj\Debug\net8.0\Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\obj\Debug\net8.0\Ages.AssemblyInfoInputs.cache
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\obj\Debug\net8.0\Ages.AssemblyInfo.cs
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\obj\Debug\net8.0\Ages.csproj.CoreCompileInputs.cache
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\obj\Debug\net8.0\Ages.sourcelink.json
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\obj\Debug\net8.0\Ages.dll
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\obj\Debug\net8.0\refint\Ages.dll
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\obj\Debug\net8.0\Ages.pdb
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\obj\Debug\net8.0\Ages.genruntimeconfig.cache
+C:\Users\Juli Ali\source\repos\dss-excercises\01-Loops-Conditionals-Variables\Ages\obj\Debug\net8.0\ref\Ages.dll
